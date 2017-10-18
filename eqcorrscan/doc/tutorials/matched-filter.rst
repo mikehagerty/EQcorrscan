@@ -77,7 +77,7 @@ event:
 Tribe creation
 --------------
 
-As eluded to above, Template.construct only works for individual events, to
+As alluded to above, Template.construct only works for individual events, to
 make a lot of templates we have to use the Tribe.construct method. The syntax
 is similar, but we don't specify names - templates are named according
 to their start-time, but you can rename them later if you wish:
